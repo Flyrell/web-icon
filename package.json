@@ -1,0 +1,28 @@
+{
+  "name": "web-icon",
+  "version": "1.0.0",
+  "description": "Web Component for loading svg icons and customize them via CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flyrell/web-icon.git"
+  },
+  "keywords": [
+    "icon",
+    "svg",
+    "icon",
+    "inline",
+    "svg",
+    "web",
+    "component"
+  ],
+  "author": "Dawid Zbiński <dawid@zbinski.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flyrell/web-icon/issues"
+  },
+  "homepage": "https://github.com/Flyrell/web-icon#readme"
+}
